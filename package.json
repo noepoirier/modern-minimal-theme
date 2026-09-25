@@ -1,0 +1,31 @@
+{
+  "name": "modern-minimal-theme",
+  "displayName": "Modern Minimal Theme",
+  "description": "A modern, minimal, and harmonized color theme for VS Code.",
+  "version": "0.0.1",
+  "publisher": "noepoirier",
+  "engines": {
+    "vscode": "^1.138.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Modern Minimal Light",
+        "uiTheme": "vs",
+        "path": "./themes/Modern Minimal Light-color-theme.json"
+      },
+      {
+        "label": "Modern Minimal Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Modern Minimal Dark-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/noepoirier/modern-minimal-theme"
+  }
+}
