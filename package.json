@@ -2,10 +2,10 @@
   "name": "modern-minimal-theme",
   "displayName": "Modern Minimal Theme",
   "description": "A modern, minimal, and harmonized color theme for VS Code.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "noepoirier",
   "engines": {
-    "vscode": "^1.138.0"
+    "vscode": "^1.80.0"
   },
   "categories": [
     "Themes"
